@@ -12,6 +12,7 @@ export default {
     author: `Mian Muhammad Sharjeel Safdar`,
   },
   plugins: [
+    `gatsby-plugin-material-ui`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-image`,
     {
